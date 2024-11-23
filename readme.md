@@ -1,0 +1,1 @@
+This repo contains the source code for the idea submission bot for the high seas jam! Check it out on slack [here!](https://hackclub.slack.com/archives/C082JDEBP09/p1732326306302599)
